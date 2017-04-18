@@ -14,3 +14,5 @@ For this method, alongside your Pi Zero, MicroUSB cable and MicroSD card, only a
     ssh pi@raspberrypi.local
 
     password: raspberry
+
+* setting up wifi https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
