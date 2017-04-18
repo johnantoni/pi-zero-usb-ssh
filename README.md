@@ -16,3 +16,4 @@ For this method, alongside your Pi Zero, MicroUSB cable and MicroSD card, only a
     password: raspberry
 
 * setting up wifi https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
+* setting a static ip https://www.modmypi.com/blog/how-to-give-your-raspberry-pi-a-static-ip-address-update
